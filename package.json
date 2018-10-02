@@ -2,8 +2,9 @@
     "name": "bahoosh",
     "displayName": "gokhma-man-varam",
     "description": "phd varim bahosham",
-    "version": "0.0.1",
+    "version": "0.0.3",
     "publisher": "nabi",
+    "repository": "https://github.com/mohamadzade/bahoosh.git",
     "engines": {
         "vscode": "^1.27.0"
     },
